@@ -50,9 +50,11 @@ Customers and administrators
 
 Our collaborative workflow used feature branches, pull requests, production build validation, backend tests, and technical documentation. The team also reviewed responsive behavior and website performance after deployment.
 
-## My Contributions
+## Team Collaboration
 
-I contributed to the collaborative development effort, including public menu integration and application build validation. Individual responsibilities will be documented further after reviewing the development history.
+This platform was co-developed by **Daniel and Javier** as part of **Saav Studio**. We collaborated on delivering and improving a production application, including implementation, integration, testing, and deployment activities.
+
+The features and technologies described in this case study represent the **shared project**, not a claim that either developer individually implemented every component.
 
 ## Repository Scope and Privacy
 

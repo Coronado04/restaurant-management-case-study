@@ -60,6 +60,10 @@ The features and technologies described in this case study represent the **share
 
 This repository is intended solely for public-facing, approved documentation. It excludes application source code, API secrets, environment variables, private endpoints, database connection details, customer records, and sensitive administrator content.
 
+## Screenshots
+
+Selected public and anonymized administrative screenshots are organized in the [screenshots folder](screenshots/README.md). The gallery images will be displayed here after the approved files are uploaded.
+
 ## Credits
 
 Collaborative project developed within **Saav Studio**. The original source repository is separately administered by Javier.

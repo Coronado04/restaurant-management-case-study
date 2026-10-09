@@ -14,6 +14,8 @@ The restaurant initially received reservations through social media and telephon
 
 ## Features
 
+For a feature-by-feature overview and current-scope distinctions, read the [feature documentation](docs/features.md).
+
 - Responsive customer-facing restaurant website.
 - Online reservation submissions and administrative reservation management.
 - Public menu and administrative menu management.
@@ -31,6 +33,8 @@ The restaurant initially received reservations through social media and telephon
 | Testing and development | Jest, Git, GitHub, Google PageSpeed Insights |
 
 ## High-Level Architecture
+
+For design considerations and technology trade-offs, read the [system architecture](docs/architecture.md).
 
 ```text
 Customers and administrators
@@ -62,7 +66,15 @@ This repository is intended solely for public-facing, approved documentation. It
 
 ## Screenshots
 
-Selected public and anonymized administrative screenshots are organized in the [screenshots folder](screenshots/README.md). The gallery images will be displayed here after the approved files are uploaded.
+### Public Website
+
+![La Cantina de Sabina — restaurant homepage](screenshots/PaginaDeInicio.png)
+
+### Reservation Form
+
+![La Cantina de Sabina — customer reservation form](screenshots/Reservar.png)
+
+Additional application views are available in the [screenshots directory](screenshots/README.md). Administrative views should only be shared after confirming all customer, staff, and operational identifiers have been removed or replaced with fictional demo data.
 
 ## Credits
 

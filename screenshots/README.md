@@ -1,18 +1,27 @@
 # Screenshots — La Cantina de Sabina
 
-This folder contains approved visual materials for the public portfolio case study. Administrative screenshots must be anonymized before publication. No production credentials, customer contact information, reservation identifiers, or other private data should be committed.
+This directory contains screenshots from the collaborative restaurant web-platform project.
 
-## Planned visual gallery
+## Public website screenshots
 
-| File | View | Privacy treatment |
-| --- | --- | --- |
-| `homepage.jpg` | Public website homepage | Cropped public hero view |
-| `admin-login.jpg` | Administrator login interface | Credentials replaced with example values |
-| `reservations-dashboard.jpg` | Reservation management dashboard | Names and private fields replaced or hidden |
-| `reservation-details.jpg` | Reservation details panel | Contact details, identifiers and history hidden |
+| File | Description |
+| --- | --- |
+| [PaginaDeInicio.png](PaginaDeInicio.png) | Public-facing restaurant homepage |
+| [Reservar.png](Reservar.png) | Customer reservation form |
 
-The reservation form screenshot can be added later as `reservation-form.jpg` once its separate source image is available.
+Both are displayed in the [main case study README](../README.md).
 
-**Note:** Screenshots are illustrative captures of the team's application. Anonymized demo labels are not real restaurant customer data.
+## Additional application screenshots
 
-See the [case study README](../README.md) for context and the [feature documentation](../docs/features.md) for an overview of supported workflows.
+| File | Description |
+| --- | --- |
+| [Acceso del administrador.jpeg](Acceso%20del%20administrador.jpeg) | Administrative sign-in UI |
+| [Dashboard admin.jpeg](Dashboard%20admin.jpeg) | Reservation-management interface |
+| [InfoDeReserva.jpeg](InfoDeReserva.jpeg) | Reservation-related screen |
+| [InfoDeEventos.jpeg](InfoDeEventos.jpeg) | Events-related screen |
+
+**Privacy review required:** Administrative screenshots must not contain real names, phone numbers, email addresses, booking identifiers, credentials, or other confidential information. Before using or retaining these publicly, verify that visible records are fictional or permanently anonymized. This documentation does not certify that the uploaded images passed such a review.
+
+The full production application's source code and configurations are not shared in this repository.
+
+See also the [feature documentation](../docs/features.md) and [system architecture](../docs/architecture.md).
